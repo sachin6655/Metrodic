@@ -1,0 +1,13 @@
+D:\Projects\MetrodicFitness\MatrodicFitness\DBMatrodicFitness\obj\Debug\netcoreapp3.1\DBMatrodicFitness.csproj.AssemblyReference.cache
+D:\Projects\MetrodicFitness\MatrodicFitness\DBMatrodicFitness\obj\Debug\netcoreapp3.1\DBMatrodicFitness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MetrodicFitness\MatrodicFitness\DBMatrodicFitness\obj\Debug\netcoreapp3.1\DBMatrodicFitness.AssemblyInfoInputs.cache
+D:\Projects\MetrodicFitness\MatrodicFitness\DBMatrodicFitness\obj\Debug\netcoreapp3.1\DBMatrodicFitness.AssemblyInfo.cs
+D:\Projects\MetrodicFitness\MatrodicFitness\DBMatrodicFitness\obj\Debug\netcoreapp3.1\DBMatrodicFitness.csproj.CoreCompileInputs.cache
+D:\Projects\MetrodicFitness\MatrodicFitness\DBMatrodicFitness\bin\Debug\netcoreapp3.1\DBMatrodicFitness.deps.json
+D:\Projects\MetrodicFitness\MatrodicFitness\DBMatrodicFitness\bin\Debug\netcoreapp3.1\DBMatrodicFitness.dll
+D:\Projects\MetrodicFitness\MatrodicFitness\DBMatrodicFitness\bin\Debug\netcoreapp3.1\DBMatrodicFitness.pdb
+D:\Projects\MetrodicFitness\MatrodicFitness\DBMatrodicFitness\bin\Debug\netcoreapp3.1\EntityMetrodicFitness.dll
+D:\Projects\MetrodicFitness\MatrodicFitness\DBMatrodicFitness\bin\Debug\netcoreapp3.1\EntityMetrodicFitness.pdb
+D:\Projects\MetrodicFitness\MatrodicFitness\DBMatrodicFitness\obj\Debug\netcoreapp3.1\DBMatrodicFitness.csproj.CopyComplete
+D:\Projects\MetrodicFitness\MatrodicFitness\DBMatrodicFitness\obj\Debug\netcoreapp3.1\DBMatrodicFitness.dll
+D:\Projects\MetrodicFitness\MatrodicFitness\DBMatrodicFitness\obj\Debug\netcoreapp3.1\DBMatrodicFitness.pdb

@@ -1,0 +1,9 @@
+D:\Projects\MetrodicFitness\MatrodicFitness\EntityMetrodicFitness\bin\Debug\netcoreapp3.1\EntityMetrodicFitness.deps.json
+D:\Projects\MetrodicFitness\MatrodicFitness\EntityMetrodicFitness\bin\Debug\netcoreapp3.1\EntityMetrodicFitness.dll
+D:\Projects\MetrodicFitness\MatrodicFitness\EntityMetrodicFitness\bin\Debug\netcoreapp3.1\EntityMetrodicFitness.pdb
+D:\Projects\MetrodicFitness\MatrodicFitness\EntityMetrodicFitness\obj\Debug\netcoreapp3.1\EntityMetrodicFitness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MetrodicFitness\MatrodicFitness\EntityMetrodicFitness\obj\Debug\netcoreapp3.1\EntityMetrodicFitness.AssemblyInfoInputs.cache
+D:\Projects\MetrodicFitness\MatrodicFitness\EntityMetrodicFitness\obj\Debug\netcoreapp3.1\EntityMetrodicFitness.AssemblyInfo.cs
+D:\Projects\MetrodicFitness\MatrodicFitness\EntityMetrodicFitness\obj\Debug\netcoreapp3.1\EntityMetrodicFitness.csproj.CoreCompileInputs.cache
+D:\Projects\MetrodicFitness\MatrodicFitness\EntityMetrodicFitness\obj\Debug\netcoreapp3.1\EntityMetrodicFitness.dll
+D:\Projects\MetrodicFitness\MatrodicFitness\EntityMetrodicFitness\obj\Debug\netcoreapp3.1\EntityMetrodicFitness.pdb

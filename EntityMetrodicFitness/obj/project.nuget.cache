@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yVFz2v0pfv38A/IvEw49Et0cc3f2nyHE71sm+2jhqihobNL0lInEkDVrV4RJ8rftK9v9Y78LZW1hVhxS8k1JHQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\MetrodicFitness\\MatrodicFitness\\EntityMetrodicFitness\\EntityMetrodicFitness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sachin\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\Sachin\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\Sachin\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
